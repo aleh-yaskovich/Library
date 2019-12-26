@@ -1,0 +1,50 @@
+GENRE=ImaginativeLiterature; TITLE=Мятная сказка; AUTHOR=Александр Полярный; YEAR=2018; PUBLISHING=АСТ; PAGE_COUNT=160; PRICE=11.96; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Когда я вернусь, будь дома; AUTHOR=Эльчин Сафарли; YEAR=2017; PUBLISHING=АСТ; PAGE_COUNT=288; PRICE=13.52; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=1984; AUTHOR=Джордж Оруэлл; YEAR=2015; PUBLISHING=АСТ; PAGE_COUNT=320; PRICE=8.12; BINDING=мягкая обложка
+GENRE=ImaginativeLiterature; TITLE=Таинственная история Билли Миллигана; AUTHOR=Дэниел Киз; YEAR=2017; PUBLISHING=Эксмо; PAGE_COUNT=576; PRICE=6.99; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Дом, в котором горит свет; AUTHOR=Эльчин Сафарли; YEAR=2019; PUBLISHING=АСТ; PAGE_COUNT=288; PRICE=16.86; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Не такая, как все; AUTHOR=Марк Леви; YEAR=2018; PUBLISHING=Иностранка; PAGE_COUNT=400; PRICE=14.83; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Гарри Поттер и философский камень; AUTHOR=Джоан Роулинг; YEAR=2016; PUBLISHING=Махаон; PAGE_COUNT=432; PRICE=16.05; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=451 градус по Фаренгейту; AUTHOR=Рэй Брэдбери; YEAR=2017; PUBLISHING=Эксмо; PAGE_COUNT=256; PRICE=7.15; BINDING=мягкая обложка
+GENRE=ImaginativeLiterature; TITLE=Кладбище домашних животных; AUTHOR=Стивен Кинг; YEAR=2016; PUBLISHING=АСТ; PAGE_COUNT=480; PRICE=11.89; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Сияние; AUTHOR=Стивен Кинг; YEAR=2015; PUBLISHING=АСТ; PAGE_COUNT=544; PRICE=17.65; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=О дивный новый мир; AUTHOR=Олдос Хаксли; YEAR=2016; PUBLISHING=АСТ; PAGE_COUNT=352; PRICE=8.39; BINDING=мягкая обложка
+GENRE=ImaginativeLiterature; TITLE=В темноте; AUTHOR=Даниэль Пайснер, Кристина Хигер; YEAR=2017; PUBLISHING=Эксмо; PAGE_COUNT=288; PRICE=17.98; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Мастер и Маргарита; AUTHOR=Михаил Булгаков; YEAR=2012; PUBLISHING=Азбука; PAGE_COUNT=480; PRICE=7.55; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Все цветы Парижа; AUTHOR=Сара Джио; YEAR=2019; PUBLISHING=Эксмо; PAGE_COUNT=384; PRICE=17.15; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Гордость и предубеждение; AUTHOR=Джейн Остин; YEAR=2018; PUBLISHING=Азбука; PAGE_COUNT=416; PRICE=7.55; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Зов Ктулху; AUTHOR=Говард Лавкрафт; YEAR=2019; PUBLISHING=АСТ; PAGE_COUNT=480; PRICE=14.11; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Триумфальная арка; AUTHOR=Эрих Мария Ремарк; YEAR=2017; PUBLISHING=АСТ; PAGE_COUNT=640; PRICE=13.08; BINDING=мягкая обложка
+GENRE=ImaginativeLiterature; TITLE=Время секонд хэнд; AUTHOR=Светлана Алексиевич; YEAR=2019; PUBLISHING=Время; PAGE_COUNT=512; PRICE=23.68; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Искусство легких касаний; AUTHOR=Виктор Пелевин; YEAR=2019; PUBLISHING=Эксмо; PAGE_COUNT=416; PRICE=25.81; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Заводной апельсин; AUTHOR=Энтони Бёрджесс; YEAR=2019; PUBLISHING=АСТ; PAGE_COUNT=256; PRICE=9.02; BINDING=мягкая обложка
+GENRE=ImaginativeLiterature; TITLE=Норвежский лес; AUTHOR=Харуки Мураками; YEAR=2018; PUBLISHING=Эксмо; PAGE_COUNT=384; PRICE=9.14; BINDING=мягкая обложка
+GENRE=ImaginativeLiterature; TITLE=Вино из одуванчиков; AUTHOR=Рэй Брэдбери; YEAR=2017; PUBLISHING=Эксмо; PAGE_COUNT=352; PRICE=7.15; BINDING=мягкая обложка
+GENRE=ImaginativeLiterature; TITLE=Зеленая миля; AUTHOR=Стивен Кинг; YEAR=2014; PUBLISHING=АСТ; PAGE_COUNT=384; PRICE=12.52; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Мартин Иден; AUTHOR=Джек Лондон; YEAR=2017; PUBLISHING=Азбука; PAGE_COUNT=416; PRICE=7.55; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Оно; AUTHOR=Стивен Кинг; YEAR=2012; PUBLISHING=АСТ; PAGE_COUNT=1245; PRICE=8.79; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Мы; AUTHOR=Евгений Замятин; YEAR=2016; PUBLISHING=АСТ; PAGE_COUNT=224; PRICE=6.97; BINDING=мягкая обложка
+GENRE=ImaginativeLiterature; TITLE=Стигмалион; AUTHOR=Кристина Старк; YEAR=2019; PUBLISHING=АСТ; PAGE_COUNT=480; PRICE=12.36; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Каждый вдох; AUTHOR=Николас Спаркс; YEAR=2019; PUBLISHING=АСТ; PAGE_COUNT=320; PRICE=13.28; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Вторая жизнь Уве; AUTHOR=Фредрик Бакман; YEAR=2016; PUBLISHING=Синдбад; PAGE_COUNT=384; PRICE=17.24; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Чернобыльская молитва; AUTHOR=Светлана Алексиевич; YEAR=2019; PUBLISHING=Время; PAGE_COUNT=304; PRICE=23.22; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=World of Warcraft. Военные преступления; AUTHOR=Кристи Голден; YEAR=2019; PUBLISHING=АСТ; PAGE_COUNT=416; PRICE=19.19; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Девочка, которая всегда смеялась последней; AUTHOR=Александр Цыпкин; YEAR=2019; PUBLISHING=АСТ; PAGE_COUNT=288; PRICE=14.12; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Убить пересмешника; AUTHOR=Харпер Ли; YEAR=2017; PUBLISHING=АСТ; PAGE_COUNT=416; PRICE=10.44; BINDING=мягкая обложка
+GENRE=ImaginativeLiterature; TITLE=Благие знамения; AUTHOR=Нил Гейман, Терри Пратчетт; YEAR=2019; PUBLISHING=Эксмо; PAGE_COUNT=512; PRICE=14.1; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Рик и Морти. Нужно больше приключений; AUTHOR=З. Горман, Д. Ройланд; YEAR=2018; PUBLISHING=Комильфо; PAGE_COUNT=392; PRICE=35.6; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Книжный вор; AUTHOR=Маркус Зусак; YEAR=2018; PUBLISHING=Эксмо; PAGE_COUNT=512; PRICE=8.79; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Татуировщик из Освенцима; AUTHOR=Хизер Моррис; YEAR=2019; PUBLISHING=Азбука; PAGE_COUNT=320; PRICE=18.51; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Виноваты звезды; AUTHOR=Джон Грин; YEAR=2015; PUBLISHING=АСТ; PAGE_COUNT=288; PRICE=12.35; BINDING=твердый переплет
+GENRE=ImaginativeLiterature; TITLE=Происхождение; AUTHOR=Дэн Браун; YEAR=2017; PUBLISHING=АСТ; PAGE_COUNT=576; PRICE=21.47; BINDING=твердый переплет
+GENRE=ProgrammingLiterature; TITLE=Изучаем Java; AUTHOR=Берт Бейтс, Кэти Сьерра; YEAR=2015; PUBLISHING=Эксмо; PAGE_COUNT=720; WEIGTH=1350; PRICE=33.38
+GENRE=ProgrammingLiterature; TITLE=Изучаем C++ через программирование игр; AUTHOR=Майкл Доусон; YEAR=2019; PUBLISHING=Питер; PAGE_COUNT=352; WEIGTH=450; PRICE=32.59
+GENRE=ProgrammingLiterature; TITLE=Swift. Основы разработки приложений под iOS, iPadOS и macOS; AUTHOR=Василий Усов; YEAR=2019; PUBLISHING=Питер; PAGE_COUNT=496; WEIGTH=420; PRICE=34.43
+GENRE=ProgrammingLiterature; TITLE=Javascript и jQuery. Интерактивная веб-разработка; AUTHOR=Джон Дакетт; YEAR=2016; PUBLISHING=АСТ; PAGE_COUNT=640; WEIGTH=1120; PRICE=67.14
+GENRE=ProgrammingLiterature; TITLE=Java. Эффективное программирование; AUTHOR=Джошуа Блох; YEAR=2013; PUBLISHING=ДМК; PAGE_COUNT=294; WEIGTH=400; PRICE=29.85
+GENRE=ProgrammingLiterature; TITLE=Чистый Python. Тонкости программирования для профи; AUTHOR=Дэн Бейдер; YEAR=2019; PUBLISHING=Питер; PAGE_COUNT=288; WEIGTH=381; PRICE=47.51
+GENRE=Encyclopedia; TITLE=1000 ошибок общего образования; YEAR=2010; PUBLISHING=Белый город; PAGE_COUNT=320; WIDTH=165; HEIGHT=215; THICKNESS=22; WEIGTH=580; PRICE=14.56
+GENRE=Encyclopedia; TITLE=Европейское искусство. Энциклопедия. Живопись. Скульптура. Графика; YEAR=2006; PUBLISHING=Белый город; PAGE_COUNT=416; WIDTH=220; HEIGHT=280; THICKNESS=32; WEIGTH=2106; PRICE=62.82
+GENRE=Encyclopedia; TITLE=Русские пословицы и поговорки в иллюстрациях; YEAR=2019; PUBLISHING=Эксмо; PAGE_COUNT=208; WIDTH=170; HEIGHT=215; THICKNESS=577; WEIGTH=23; PRICE=20.79
+GENRE=Encyclopedia; TITLE=Всё, что должен знать каждый образованный человек; YEAR=2016; PUBLISHING=АСТ; PAGE_COUNT=192; WIDTH=205; HEIGHT=290; THICKNESS=960; WEIGTH=22; PRICE=36.63
+GENRE=Encyclopedia; TITLE=Гиннесс. Мировые рекорды 2017; YEAR=2016; PUBLISHING=АСТ; PAGE_COUNT=256; WIDTH=225; HEIGHT=300; THICKNESS=1160; WEIGTH=22; PRICE=80.2
